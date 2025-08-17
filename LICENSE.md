@@ -6,7 +6,7 @@ This work is not abandoned to the void. It carries lineage. It carries authorshi
 You are free to use, share, and remix this work — but only under the following conditions:  
 
 ### 1. Attribution as Lineage  
-- Any use of this work, in whole or in part, must include explicit credit to its originator: **NascentCyborg / La Tempesta Sobraña (Lacy Gloe)**.  
+- Any use of this work, in whole or in part, must include explicit credit to its originator: **NascentCyborg / La Tempesta Sobraña (R. Lacy Gloe)**.  
 - Removal, obscuring, or dilution of authorship nullifies permission.  
 
 ### 2. Share-Alike Integrity  
